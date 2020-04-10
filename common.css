@@ -1,0 +1,108 @@
+body
+{
+	padding-top: 28px;
+	font-family: Georgia;
+}
+
+.style
+{
+	text-align: center;
+	margin:auto;
+	width: 765px;
+}
+
+.heading
+{
+	font-size: 55px;
+	margin-bottom: 5px;
+	font-weight: 600px;
+}
+
+div.part1
+{
+	text-align: center;
+	width: 625px;
+  	margin: auto;
+  	border: 1px solid black;
+  	padding: 20px;
+  	padding-bottom: 21px;
+  	margin-bottom: 12px;
+  	
+}
+
+.button
+{
+	padding: 10px;
+	font-size: 13px;
+	font-style: italic;
+	color:gray;
+}
+
+a{
+	color:inherit;
+	text-decoration: none;
+	cursor: default;
+}
+
+
+
+.picture
+{
+	text-align: center;
+	margin-top: 87px;
+}
+
+.set
+{
+	margin: auto;
+	width: 765px;
+}
+
+.pic
+{
+	object-fit: cover;
+	width: 375px;
+	height:375px;
+	padding: 1.5px;
+}
+
+.social
+{
+	width: 19px;
+	height: 19px;
+	padding: 7.5px;
+	margin-top: 4px;
+}
+
+.footer
+{
+	text-align: center;
+	margin: auto;
+}
+h4
+{
+	font-weight: normal;
+	font-size: 9px;
+	font-style: italic;
+	color: darkslategray;
+	margin-top: 30px;
+}
+
+.current
+{
+	color:black;
+}
+
+.picture_nature
+{
+	text-align: center;
+	margin-top: 55px;
+}
+
+.nature
+{
+	text-align: left;
+	padding-left: 8px;
+	font-size: 27px;
+	margin-bottom: 7px;
+}
